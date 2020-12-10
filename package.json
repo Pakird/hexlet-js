@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/Pakird/hexlet-js/issues"
   },
-  "homepage": "https://github.com/Pakird/hexlet-js#readme"
+  "homepage": "https://github.com/Pakird/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.12.10",
+    "@babel/preset-env": "^7.12.10"
+  }
 }
