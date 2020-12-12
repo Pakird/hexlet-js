@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "hexlet",
   "version": "1.0.0",
   "description": "Мой первый проект на Хекслете",
